@@ -1,5 +1,5 @@
 # Project Name
-> BoomBikes Case Study
+> Surprise Housing Price Prediction
 
 
 
@@ -28,14 +28,16 @@ Business Goal
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-	Metric	           Linear Regression	Ridge Regression	Lasso Regression
-0	R2 Score (Train)	9.562003e-01	8.334052e-01	8.760006e-01
-1	R2 Score (Test)	   -3.240123e+22	8.209885e-01	8.374519e-01
-2	RSS (Train)	        2.794730e+11	1.062991e+12	7.912027e+11
-3	RSS (Test)	        9.132976e+34	5.045820e+11	4.581764e+11
-4	MSE (Train)	        1.654463e+04	3.226651e+04	2.783755e+04
-5	MSE (Test)	        1.444006e+16	3.394133e+04	3.234293e+04
+Metric	            Linear Regression	Ridge Regression	Lasso Regression
+R2 Score (Train)	9.562003e-01	    8.935452e-01	    9.325195e-01
+R2 Score (Test)	    -3.240123e+22	    8.630473e-01	    8.468941e-01
+RSS (Train)	        2.794730e+11	    6.792558e+11	    4.305727e+11
+RSS (Test)	        9.132976e+34	    3.860302e+11	    4.315615e+11
+MSE (Train)	        1.654463e+04	    2.579312e+04	    2.053574e+04
+MSE (Test)	        1.444006e+16	    2.968750e+04	    3.138949e+04
 
+
+ Ridge Model will be the best fit model for predicting housing pricess. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
